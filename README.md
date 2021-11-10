@@ -42,6 +42,8 @@ xxxxxxxxxxxxxxxxxxxx
 
 - `maze.cpp` and `maze.h`: Definitions for maze functions
 
+- `maze.txt` and `maze1.txt` and `maze2.txt` and `maze3.txt` : hardocoded mazes used to test in main.cpp
+
 - `creature.cpp` and `creature.h`: Definitions for creature
 
 - `main.cpp`: Runs all tests
